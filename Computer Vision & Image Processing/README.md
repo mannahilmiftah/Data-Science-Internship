@@ -1,1 +1,1 @@
-
+Applied K-Means clustering for image compression and color quantization using OpenCV and Scikit-learn. Experimented with different cluster sizes (k = 2–15) to analyze how color granularity affects image clarity and visual detail.
