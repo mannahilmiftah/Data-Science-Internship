@@ -1,1 +1,1 @@
-
+Implemented sentiment analysis on an Urdu text dataset using RNN, GRU, LSTM, and BiLSTM models. Preprocessed and tokenized text data, trained models, and evaluated performance using multiple metrics to compare model efficiency for binary sentiment classification.
